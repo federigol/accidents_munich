@@ -265,7 +265,7 @@ m2 <- leaflet() %>%
                                leafletOptions(pane = "labels"))) %>%
   addTiles(attribution = "© Statistische Ämter des Bundes und der Länder",
            options = providerTileOptions(opacity = 0)) %>%
-  addLayersControl(overlayGroups = c("Nur PKWs", "Nur Fahrräder", "PKWs und Fahrräder", "PKWs und Fußgänger", "Fahrräder und Fußgänger"),
+  addLayersControl(overlayGroups = c("Nur PKWs", "Nur Fahrräder", "PKWs und Fahrräder", "PKWs und Fußgänger", "Fahrräder und Fußgänger", "Sonstige"),
                    position = "topright") %>%
   addLegendCustom(colors, labels, sizes, shapes, borders)
 

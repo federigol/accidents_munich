@@ -3,5 +3,5 @@ Two interactive Leaflet maps of serious accidents in Munich (2016-2019). Dataset
 
 Maps can be found here:
 
-http://fernwehnachwelt.de/wp-content/uploads/2020/12/unfaelle_muc1.html
+http://fernwehnachwelt.de/wp-content/uploads/2020/12/unfaelle_muc1.html <br>
 http://fernwehnachwelt.de/wp-content/uploads/2020/12/unfaelle_muc2.html
